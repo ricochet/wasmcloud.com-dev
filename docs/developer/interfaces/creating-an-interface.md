@@ -7,7 +7,7 @@ draft: false
 
 The first thing we're going to need for our _payments service_ sample capability provider is an **interface**. An interface describes the data types that actors and providers exchange, as well as the supported operations that can be invoked, and the relative directions of those operations.
 
-[Contract-driven](https://en.wikipedia.org/wiki/Design_by_contract) design and development (CDD) has been a long-favored technique for developers building microservices and other types of composable systems. Earlier in our documentation we also referred to it as [interface-driven development](/docs/concepts/interface_driven_development). Not only does CDD/IDD make our initial design experience easier, but it continues to pay dividends throughout the life cycle of our application.
+[Contract-driven](https://en.wikipedia.org/wiki/Design_by_contract) design and development (CDD) has been a long-favored technique for developers building microservices and other types of composable systems. Earlier in our documentation we also referred to it as [interface-driven development](/docs/concepts/interface-driven-development). Not only does CDD/IDD make our initial design experience easier, but it continues to pay dividends throughout the life cycle of our application.
 
 ### Creating a smithy interface
 

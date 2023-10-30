@@ -12,7 +12,7 @@ The following is a list of developer workflows _sorted_ from **_most to least co
 
 ### Building Actors
 
-The most common thing application developers will do is build actors. Actors encompass pure business logic, and only communicate with non-functional requirements through capability providers and abstract [interfaces](/docs/concepts/interface_driven_development).
+The most common thing application developers will do is build actors. Actors encompass pure business logic, and only communicate with non-functional requirements through capability providers and abstract [interfaces](/docs/concepts/interface-driven-development).
 
 Once you've established a dependency on a library that exposes the interface abstraction you're looking for, you can start your iteration loop.
 
